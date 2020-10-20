@@ -1,3 +1,17 @@
 # Telephone-Diary
 
-This app is designed to store people conntacts that are dear to you.
+This app is designed to store people contacts that are dear to you.
+
+## How to Run the app
+
+1. Please download setup file and install the program.
+2. Run desktop icon as an administrator.
+
+## Features
+
+- storing contacts in database.
+
+## Depenencies
+
+- Windows
+- Visual Studio
