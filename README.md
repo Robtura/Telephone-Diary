@@ -16,6 +16,6 @@ This app is designed to store people contacts that are dear to you.
 - Windows
 - Visual Studio
 
-## Tutorial
+## Project orginis
 
 You can find this project: https://www.youtube.com/watch?v=eqklWFGD90s&ab_channel=FoxLearn
