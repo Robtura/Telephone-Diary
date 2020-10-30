@@ -35,5 +35,10 @@ namespace TelephoneDiary
             database.WriteXml($"{Application.StartupPath}/data.dat");
             MessageBox.Show("Your data has been successfully save.","Message",MessageBoxButtons.OK,MessageBoxIcon.Information);
         }
+
+        private void phoneBooksDataGridView_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }

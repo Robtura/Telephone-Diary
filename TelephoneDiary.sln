@@ -5,16 +5,20 @@ VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelephoneDiary", "TelephoneDiary\TelephoneDiary.csproj", "{15384AB3-22DA-48D9-AAC9-07A158634401}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{087025E4-62E1-4DF6-89C9-558716511E11}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{15384AB3-22DA-48D9-AAC9-07A158634401}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{15384AB3-22DA-48D9-AAC9-07A158634401}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15384AB3-22DA-48D9-AAC9-07A158634401}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{15384AB3-22DA-48D9-AAC9-07A158634401}.Debug|Any CPU.Build.0 = Release|Any CPU
 		{15384AB3-22DA-48D9-AAC9-07A158634401}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15384AB3-22DA-48D9-AAC9-07A158634401}.Release|Any CPU.Build.0 = Release|Any CPU
+		{087025E4-62E1-4DF6-89C9-558716511E11}.Debug|Any CPU.ActiveCfg = Release
+		{087025E4-62E1-4DF6-89C9-558716511E11}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
