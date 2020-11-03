@@ -2,11 +2,16 @@
 
 This app is designed to store people's contacts.
 
+# How to run an app
+
+1. Download: https://drive.google.com/file/d/1J3v66c9TsqAoTEBdSy1KUPX3-ijRTxYp/view?usp=sharing
+2. To use this app you need to install it and run as administrator.
+
 # Features
 
-- Storing multiple contacts with phone numbers, address in database.
+- Storing multiple contacts with phone numbers, addresses in the database.
 
-# Depenencies
+# Dependencies
 
 - Windows
 - Visual Studio
