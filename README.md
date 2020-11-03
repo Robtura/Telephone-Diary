@@ -17,6 +17,6 @@ This app is designed to store people's contacts.
 - Windows
 - Visual Studio
 
-# Reference
+# References
 
 You can find this project: https://www.youtube.com/watch?v=eqklWFGD90s&ab_channel=FoxLearn
