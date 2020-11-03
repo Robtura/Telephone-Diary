@@ -5,7 +5,8 @@ This app is designed to store people's contacts.
 # How to run an app
 
 1. Download: https://drive.google.com/file/d/1J3v66c9TsqAoTEBdSy1KUPX3-ijRTxYp/view?usp=sharing
-2. To use this app you need to install it and run as administrator.
+2. Unzip the files.
+3. Install the program run it as administrator.
 
 # Features
 
